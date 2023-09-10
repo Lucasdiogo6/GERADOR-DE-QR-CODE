@@ -1,5 +1,4 @@
 # GERADOR DE QR CODE
-https://github.com/Lucasdiogo6/GERADOR-DE-QR-CODE/
 <br>
 Foto do Projeto
 
